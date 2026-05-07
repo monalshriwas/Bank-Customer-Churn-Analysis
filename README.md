@@ -1,6 +1,6 @@
 # Bank Customer Churn Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing customer churn behavior in a banking environment using Excel, SQL, and Power BI. 
 The objective was to identify key factors influencing customer attrition and generate actionable business insights through interactive visualizations and data-driven analysis.
 
@@ -108,6 +108,14 @@ By combining Excel, SQL, and Power BI, the project transformed raw customer data
 - Risk identification
 - Data-driven decision making
 
+## Recommendations
+
+- Focus on re-engaging inactive customers through personalized offers and retention campaigns.
+- Encourage single-product customers to adopt additional banking services to improve customer retention.
+- Improve premium customer experience, as high-balance customers showed elevated churn behavior.
+- Develop targeted retention strategies for high-risk customer segments identified through demographic analysis.
+- Use customer activity and product engagement metrics as early indicators for churn prediction and prevention.
+  
 # Project Outcome
 
 This project showcases:
