@@ -4,6 +4,8 @@
 This project focuses on analyzing customer churn behavior in a banking environment using Excel, SQL, and Power BI. 
 The objective was to identify key factors influencing customer attrition and generate actionable business insights through interactive visualizations and data-driven analysis.
 
+## Dashboard Overview
+
 ![Dashboard](Dashboard_overview/Dashboard.png)
 
 ## Problem Statement
